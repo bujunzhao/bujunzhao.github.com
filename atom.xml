@@ -4,7 +4,7 @@
   <title><![CDATA[阿布]]></title>
   <link href="http://bujunzhao.github.io/atom.xml" rel="self"/>
   <link href="http://bujunzhao.github.io/"/>
-  <updated>2014-04-30T11:36:33+08:00</updated>
+  <updated>2014-04-30T11:41:46+08:00</updated>
   <id>http://bujunzhao.github.io/</id>
   <author>
     <name><![CDATA[bujunzhao]]></name>
@@ -20,11 +20,11 @@
     <id>http://bujunzhao.github.io/blog/2014/04/30/my-first-blog</id>
     <content type="html"><![CDATA[<hr />
 
-<ul>
-<li>Cmd Markdown *
-<strong> Cmd Markdown </strong></li>
+<blockquote><ul>
+<li>整理知识，学习笔记</li>
+<li>发布日记，杂文，所见所想</li>
 </ul>
-
+</blockquote>
 ]]></content>
   </entry>
   
