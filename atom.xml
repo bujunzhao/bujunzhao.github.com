@@ -4,7 +4,7 @@
   <title><![CDATA[阿布]]></title>
   <link href="http://bujunzhao.github.io/atom.xml" rel="self"/>
   <link href="http://bujunzhao.github.io/"/>
-  <updated>2014-04-30T11:48:42+08:00</updated>
+  <updated>2014-04-30T12:11:14+08:00</updated>
   <id>http://bujunzhao.github.io/</id>
   <author>
     <name><![CDATA[bujunzhao]]></name>
@@ -14,9 +14,9 @@
 
   
   <entry>
-    <title type="html"><![CDATA[my first blog]]></title>
+    <title type="html"><![CDATA[My First Blog]]></title>
     <link href="http://bujunzhao.github.io/blog/2014/04/30/my-first-blog/"/>
-    <updated>2014-04-30T11:34:08+08:00</updated>
+    <updated>2014-04-30T00:00:00+08:00</updated>
     <id>http://bujunzhao.github.io/blog/2014/04/30/my-first-blog</id>
     <content type="html"><![CDATA[<hr />
 
