@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[阿布]]></title>
-  <link href="http://bujunzhao.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Health | 阿布]]></title>
+  <link href="http://bujunzhao.github.io/blog/categories/health/atom.xml" rel="self"/>
   <link href="http://bujunzhao.github.io/"/>
   <updated>2014-04-30T23:01:27+08:00</updated>
   <id>http://bujunzhao.github.io/</id>
@@ -25,21 +25,6 @@
 <p>跑步：每天2k</p>
 
 <p>今天（04.31）跑步成绩：2k 10m5s</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[my first blog]]></title>
-    <link href="http://bujunzhao.github.io/blog/2014/04/30/my-first-blog/"/>
-    <updated>2014-04-30T11:34:08+08:00</updated>
-    <id>http://bujunzhao.github.io/blog/2014/04/30/my-first-blog</id>
-    <content type="html"><![CDATA[<hr />
-
-<blockquote><ul>
-<li>整理知识，学习笔记</li>
-<li>发布日记，杂文，所见所想</li>
-</ul>
-</blockquote>
 ]]></content>
   </entry>
   
