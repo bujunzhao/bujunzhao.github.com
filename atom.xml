@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://bujunzhao.github.io/atom.xml" rel="self"/>
   <link href="http://bujunzhao.github.io/"/>
-  <updated>2014-07-16T23:27:57+08:00</updated>
+  <updated>2014-07-16T23:59:04+08:00</updated>
   <id>http://bujunzhao.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,23 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Blog in Linux]]></title>
-    <link href="http://bujunzhao.github.io/blog/2014/07/16/blog-in-linux/"/>
-    <updated>2014-07-16T23:27:36+08:00</updated>
-    <id>http://bujunzhao.github.io/blog/2014/07/16/blog-in-linux</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test1]]></title>
-    <link href="http://bujunzhao.github.io/blog/2014/04/29/test1/"/>
-    <updated>2014-04-29T12:02:16+08:00</updated>
-    <id>http://bujunzhao.github.io/blog/2014/04/29/test1</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
 </feed>
